@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="524f25c1-1381-4718-9be9-139365a86c4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basis_course/020.PHPCookie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basis_course/020.PHPSession.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basis_course/020.PHPCookie.md" beforeDir="false" afterPath="$PROJECT_DIR$/basis_course/020.PHPCookie.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basis_course/020.PHPCookie.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+              <first_editor relative-caret-position="534">
+                <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basis_course/020.PHPSession.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="569">
+                <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               </first_editor>
               <second_editor />
             </state>
@@ -131,6 +144,7 @@
       <list>
         <option value="$PROJECT_DIR$/basis_course/019.PHP文件上传.md" />
         <option value="$PROJECT_DIR$/basis_course/020.PHPCookie.md" />
+        <option value="$PROJECT_DIR$/basis_course/020.PHPSession.md" />
       </list>
     </option>
   </component>
@@ -169,7 +183,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basis_course" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -195,7 +209,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7341000" />
+    <option name="totallyTimeSpent" value="10097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -280,8 +294,18 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <first_editor relative-caret-position="534">
+            <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basis_course/020.PHPSession.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="569">
+            <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
           </first_editor>
           <second_editor />
         </state>
