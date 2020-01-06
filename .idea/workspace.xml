@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfe6dfcf-177a-4aeb-ba32-b90dbcca21f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysql/005.笛卡尔积.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/006.Mysql表连接笛卡尔积（join、left join、right join）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql/007.PHP连表查询数据.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +17,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1761" />
-    <option name="height" value="981" />
   </component>
   <component name="ProjectId" id="1VubJda1REky1uautNT5Won53Qa" />
   <component name="ProjectLevelVcsManager">
@@ -69,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578030061822</updated>
       <workItem from="1578030070567" duration="5582000" />
-      <workItem from="1578105859203" duration="3206000" />
+      <workItem from="1578105859203" duration="5229000" />
     </task>
     <servers />
   </component>
